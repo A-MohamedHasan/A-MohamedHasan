@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Python, My SQL, AWS**
 
-💬 Ask me about **My project You can visit .. [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **My project You can visit .. [here](https://github.com/A-MohamedHasan?tab=repositories)**
 
 ⚡ MOTIVATION **DO WHAT YOU LOVE**
 
