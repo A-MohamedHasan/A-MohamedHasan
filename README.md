@@ -40,11 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-<!--     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,r" /> -->
-          <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,r" /> 
-
-
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,mysql,flask" /><br>
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/vector-stall" title="Vector Stall">Vector Stall</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div><div>Icons made by <a href="https://www.flaticon.com/authors/cobynecz" title="cobynecz">cobynecz</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 </div>
 
 <br/>
