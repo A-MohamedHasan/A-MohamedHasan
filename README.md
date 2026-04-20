@@ -1,77 +1,48 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<h1 align="center">Mohamed Hasan</h1>
+<p align="center">Full-Stack Developer · India</p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Hasan!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from India </h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **WEB DEVELOPMENT**
- 
- 🌱 I’m currently learning **Python, My SQL, AWS**
-
-💬 Ask me about **My project You can visit .. [here](https://github.com/A-MohamedHasan?tab=repositories)**
-
-⚡ MOTIVATION **DO WHAT YOU LOVE**
-
- </div>
- 
-<div align="center"> 
-<a href="mailto:hasanhasanhas03@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Me" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/mohamed-hasan-446692272" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-
-  <a href="https://mohamedhasan.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hasan-446692272">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-</div>
+  <a href="https://mohamedhasan.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:hasanhasanhas03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
- <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" /> 
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,mysql,flask" />
-</div>
+---
 
-<br/>
-<hr/>
+### About Me
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+I'm a software developer from India focused on building clean, functional web applications. I enjoy working across the full stack and am currently deepening my skills in Python, MySQL, and AWS.
 
-<hr/>
+- 🔭 Currently building **web applications**
+- 🌱 Learning **Python, MySQL, AWS**
+- 💼 View my projects → [github.com/A-MohamedHasan](https://github.com/A-MohamedHasan?tab=repositories)
+- 📫 Reach me at **hasanhasanhas03@gmail.com**
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+---
 
-<br/><br/>
+### Tech Stack
 
-<hr/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br/>
+---
 
+### GitHub Stats
 
-
-<br/>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=A-MohamedHasan&show_icons=true&theme=default&border_radius=8&hide_border=false" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-MohamedHasan&layout=compact&theme=default&border_radius=8&hide_border=false" />
+</p>
